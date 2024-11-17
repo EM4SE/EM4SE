@@ -27,7 +27,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Embedded Systems & Robotics
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) ![micro:bit](https://img.shields.io/badge/micro%20bit-000000?style=for-the-badge&logo=microbit&logoColor=white) ![NodeMCU](https://img.shields.io/badge/NodeMCU-000000?style=for-the-badge&logo=nodemcu&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) ![micro:bit](https://img.shields.io/badge/micro%20bit-000000?style=for-the-badge&logo=microbit&logoColor=white)
 
 ### Tools & Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
