@@ -1,9 +1,9 @@
-# 👋 Hello World, I'm [Your Name]
+# 👋 Hello World, I'm Anjana Ekanayaka
 
 > Full Stack Developer | Cloud Enthusiast | Open Source Contributor
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EM4SE&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ## 🚀 About Me
@@ -53,7 +53,7 @@ HTML/CSS     ███░░░░░░░░   15%
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=EM4SE" alt="Profile Views" />
   <br />
   <i>Happy Coding! 👨‍💻</i>
 </div>
