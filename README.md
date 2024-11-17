@@ -1,59 +1,42 @@
-# 👋 Hello World, I'm Anjana Ekanayaka
-
-> Full Stack Developer | Cloud Enthusiast | Open Source Contributor
-
+Anjana Ekanayaka
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EM4SE&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
 
-## 🚀 About Me
 
-```javascript
-const developer = {
-    name: "Your Name",
-    location: "Your Location",
-    role: "Full Stack Developer",
-    languages: ["JavaScript", "Python", "TypeScript", "Java"],
-    interests: ["Web Development", "Cloud Architecture", "AI/ML"],
-    currentlyLearning: "Kubernetes",
-    funFact: "I debug with console.log and refuse to admit it"
+
+<img src="https://komarev.com/ghpvc/?username=AnjanaEkanayaka&color=FF5733&style=flat-square&label=Profile+Views" alt="Profile Views" /> </div>
+👨‍💻 About Me
+typescript
+Copy code
+const AnjanaEkanayaka = {
+    location: "Sri Lanka 🇱🇰",
+    education: "BSc in Computer Science",
+    roles: ["Software Engineer", "Full Stack Developer", "Tech Enthusiast"],
+    languages: ["Java", "C#", "C++", "HTML", "CSS", "PHP", "JavaScript", "jQuery"],
+    currentFocus: ["Web Development", "Application Security", "Open Source Projects"],
+    lifePhilosophy: "Building a better future with code 🌍"
 };
-```
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-- Frontend: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
-- Backend: ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-- Database: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-
-### DevOps & Tools
-- Cloud: ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-- Tools: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-
-## 📊 Weekly Development Breakdown
-
-```text
-JavaScript   █████████░░   45%
-Python       ████████░░░   40%
-HTML/CSS     ███░░░░░░░░   15%
-```
-
-## 🌱 Current Projects
-
-- 🔭 Building a real-time collaboration platform
-- 🌟 Contributing to open-source projects
-- 📚 Creating technical content and tutorials
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://YOUR_WEBSITE.com)
-
----
+🛠️ Tech Arsenal
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=EM4SE" alt="Profile Views" />
-  <br />
-  <i>Happy Coding! 👨‍💻</i>
+Core Programming Languages
+
+
+Web Technologies
+
+
+Tools & Platforms
+
+
+</div>
+📊 GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AnjanaEkanayaka&show_icons=true&theme=radical&hide_border=true&bg_color=1E1E2C&title_color=FF5733&icon_color=FF5733" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaEkanayaka&layout=compact&theme=radical&hide_border=true&bg_color=1E1E2C&title_color=FF5733&icon_color=FF5733" height="180" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnjanaEkanayaka&theme=radical&hide_border=true&background=1E1E2C&stroke=FF5733&ring=FF5733&fire=F39C12" height="200" /> </div>
+🤝 Connect & Collaborate
+<div align="center">
+
+
+</div>
+<div align="center">
+💡 Open to collaborating on AI, Full Stack Development, and Software Design Projects!
+
+
+
 </div>
